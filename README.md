@@ -1,3 +1,20 @@
+Nam Manh Tran
+
+Location: Hamburg, Germany 🇩🇪
+Email: manhnambeupu@gmail.com 📧
+LinkedIn: linkedin.com/in/manh-nam-tran-519541220 💼
+GitHub: github.com/manhnambeupu 👨‍💻
+About Me:
+
+Hello! I'm Nam, a passionate programmer who loves finding smart solutions to tricky problems. My main tools are Java for object-oriented programming and C for procedural programming. Currently, I'm diving deeper into computer science at the Hamburg University of Applied Sciences. 🚀
+
+Skills:
+
+Programming Languages: Java ☕, C 💻, SQL 🗃️, Assembly ⚙️
+Tools & Frameworks: Basic Springboot 🌱, JavaScript 📜, Oracle SQL Developer 🛠️
+Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proactivity ⚡, Time management ⏰, Critical thinking 🧠, Flexibility 🌈
+
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TranManhNamB/) 
