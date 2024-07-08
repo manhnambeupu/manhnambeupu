@@ -38,7 +38,7 @@ Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proacti
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VqVM_XNDDhLes7a-8CXu5A.jpeg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manhnambeupu&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=manhnambeupu&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Tranmanhnam) 
