@@ -15,6 +15,8 @@ Programming Languages: Java ☕, C 💻, SQL 🗃️, Assembly ⚙️
 Tools & Frameworks: Basic Springboot 🌱, JavaScript 📜, Oracle SQL Developer 🛠️
 Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proactivity ⚡, Time management ⏰, Critical thinking 🧠, Flexibility 🌈
 
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TranManhNamB/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manh-nam-tran-519541220) 
@@ -43,3 +45,4 @@ Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proacti
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+
