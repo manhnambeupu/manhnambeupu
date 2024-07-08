@@ -15,7 +15,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂Random Dev Meme
+### 😂Random Dev Commandments
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VqVM_XNDDhLes7a-8CXu5A.jpeg" width="512px"/>
 
 ---
