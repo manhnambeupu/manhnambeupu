@@ -24,9 +24,21 @@ Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proacti
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=manhnambeupu&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manhnambeupu&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manhnambeupu&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhnambeupu&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=css&langs_count=10&custom_title=top%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng" alt="manhnambeupu" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=manhnambeupu&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20tr%C3%AAn%20github" alt="manhnambeupu" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhnambeupu&theme=vue&hide_border=false" alt="manhnambeupu" width="100%"/>
+      <img src="https://github-trophies.vercel.app/?username=manhnambeupu&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="manhnambeupu" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=manhnambeupu&theme=flat&no-frame=false&no-bg=false&margin-w=4)
