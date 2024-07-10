@@ -18,15 +18,15 @@ hello! i'm nam, a passionate programmer who loves finding smart solutions to tri
 
 **⚙️ Tools_and_Technologies_Used::getInfomation()**  
 
-☕ Java 17
-🌱 Spring Boot 3+
-🗃️ Spring Data JPA (Hibernate)
-✍️ Lombok
-🗄️ MySQL and Oracle SQL
-🛠️ IntelliJ IDEA
-🧩 Maven
-🐱‍👤 Tomcat
-📬 Postman
+-☕ Java 17
+-🌱 Spring Boot 3+
+-🗃️ Spring Data JPA (Hibernate)
+-✍️ Lombok
+-🗄️ MySQL and Oracle SQL
+-🛠️ IntelliJ IDEA
+-🧩 Maven
+-🐱‍👤 Tomcat
+-📬 Postman
 
 
 ## 🌐Socials
