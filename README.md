@@ -60,10 +60,10 @@ hello! i'm nam, a passionate programmer who loves finding smart solutions to tri
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=manhnambeupu&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂Random Dev Commandments
+### ✍️ Dev Commandments
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VqVM_XNDDhLes7a-8CXu5A.jpeg" width="512px"/>
 
 ---
