@@ -12,22 +12,20 @@ hello! i'm nam, a passionate programmer who loves finding smart solutions to tri
 **programming languages:**  
 - java ☕  
 - c 💻  
-- sql 🗃️  
-- assembly ⚙️  
+- sql 🗃️    
 
 **tools & frameworks:**  
-- basic springboot 🌱  
-- javascript 📜  
-- oracle sql developer 🛠️  
+⚙️ Tools and Technologies Used:
+☕ Java 17
+🌱 Spring Boot 3+
+🗃️ Spring Data JPA (Hibernate)
+✍️ Lombok
+🗄️ MySQL and Oracle SQL
+🛠️ IntelliJ IDEA
+🧩 Maven
+🐱‍👤 Tomcat
+📬 Postman
 
-**soft skills:**  
-- communication 🗣️  
-- teamwork 🤝  
-- problem-solving 🧩  
-- proactivity ⚡  
-- time management ⏰  
-- critical thinking 🧠  
-- flexibility 🌈  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/TranManhNamB/) 
