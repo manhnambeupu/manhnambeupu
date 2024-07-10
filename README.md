@@ -9,13 +9,15 @@
 hello! i'm nam, a passionate programmer who loves finding smart solutions to tricky problems. my main tools are java for object-oriented programming and c for procedural programming. currently, i'm diving deeper into computer science at the hamburg university of applied sciences. 🚀
 
 ## skills
-**programming languages:**  
+**Programming_languages::getInfomation()**  
 - java ☕  
 - c 💻  
-- sql 🗃️    
+- sql 🗃️
+- python 🐍
+- mathlab 📊
 
-**tools & frameworks:**  
-⚙️ Tools and Technologies Used:
+**⚙️ Tools_and_Technologies_Used::getInfomation()**  
+
 ☕ Java 17
 🌱 Spring Boot 3+
 🗃️ Spring Data JPA (Hibernate)
