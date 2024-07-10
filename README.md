@@ -45,6 +45,7 @@ Soft Skills: Communication 🗣️, Teamwork 🤝, Problem-solving 🧩, Proacti
     </td>
   </tr>
 </table>
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=manhnambeupu&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
