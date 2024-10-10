@@ -2,7 +2,7 @@
 
 # Nam Manh Tran
 **location:** hamburg, germany 🇩🇪  
-**email:** manhnambeupu@gmail.com 📧  
+**email:** manhnamtranforwork@gmail.com 📧  
 **linkedin:** [linkedin.com/in/manh-nam-tran-519541220](https://linkedin.com/in/manh-nam-tran-519541220) 💼  
 **github:** [github.com/manhnambeupu](https://github.com/manhnambeupu) 👨‍💻
 
