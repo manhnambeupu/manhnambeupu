@@ -4,7 +4,7 @@
 **location:** hamburg, germany 🇩🇪  
 **email:** manhnamtranforwork@gmail.com 📧  
 **linkedin:** [linkedin.com/in/manh-nam-tran-519541220](https://linkedin.com/in/manh-nam-tran-519541220) 💼  
-**github:** [github.com/manhnambeupu](https://github.com/manhnambeupu) 👨‍💻
+**gitlab:** [gitlab.com/manhnambeupu](https://gitlab.com/manhnambeupu) 👨‍💻
 
 hello! i'm nam, a passionate programmer who loves finding smart solutions to tricky problems. my main tools are java for object-oriented programming and c for procedural programming. currently, i'm diving deeper into computer science at the hamburg university of applied sciences. 🚀
 
